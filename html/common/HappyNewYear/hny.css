@@ -1,0 +1,9 @@
+#hny {
+  background-color: #fff;
+  background: rgba(0, 0, 0, 0.2);
+	text-align:center;
+	z-index: 9999;
+}
+#hny img {
+	width:100%;
+}
